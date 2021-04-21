@@ -1,0 +1,1 @@
+Algunos hooks que voy a usar mas adelante.
